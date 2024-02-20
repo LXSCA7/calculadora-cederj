@@ -1,6 +1,6 @@
 # 🔢 Calculadora de Notas do CEDERJ
 
-Esta é uma calculadora simples em C para calcular a nota final com base nas notas da AD1 e AP1 do CEDERJ, e descobrir se você precisa ou não da AP3.
+Esta é uma calculadora simples em C para calcular a nota final com base nas notas da AD's e AP's do CEDERJ, e descobrir se você precisa ou não da AP3.
 
 ## 💡 Como usar?
 1. Clone o repositório no seu computador
