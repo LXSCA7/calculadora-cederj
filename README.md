@@ -13,4 +13,3 @@ gcc calculadora-cederj.c -o calculadora-cederj
 ```
 ./calculadora-cederj
 ```
-## 
